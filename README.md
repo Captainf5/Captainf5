@@ -9,6 +9,7 @@
 | 项目 | 解决什么问题 | 入口 |
 |---|---|---|
 | **博AI增效课程 Skill 套件** | 理念、课前调研、课纲、案例、教学数据、PPT和讲课录音复盘，七项独立Skill组成课程设计闭环 | **[打开课程合集](https://github.com/Captainf5/boai-course)** |
+| **BOBO数据分析 Skill** | 直接分析运营营销数据，或带学员学习Excel方法；交付可追溯的计算、结论和行动 | [打开独立数据分析](https://github.com/Captainf5/bobo-data-analysis) |
 | **Excel公式练习台** | 为课程学员提供常见Excel公式的交互练习 | [查看教学工具](https://github.com/Captainf5/Excel-) |
 | **Agent技能库** | 我维护的其他任务型Skill，与课程设计合集分开 | [查看Agent-Skill](https://github.com/Captainf5/Agent-Skill) |
 
