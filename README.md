@@ -1,4 +1,4 @@
-# 冯博 Gatsby｜博派AI创始人
+# 冯博 Gatsby｜自我介绍与AI实践
 
 **企业AI培训与落地实践：让管理者找到方向，让团队完成真实工作，让经验变成可复用的工具。**
 
@@ -63,11 +63,11 @@
 
 [查看练习台与源码](https://github.com/Captainf5/Excel-)
 
-### Agent任务技能库
+### Agent增强Skill合集｜OPC与10人以内AI原生团队
 
-已公开**公文自检助手**与**Agent员工化技能**：帮助检查正式材料，或为Agent明确角色、流程与工作边界。项目来源、适配与使用方式以仓库说明为准。
+已公开**提示词大师、场景挖掘、销售参谋、Agent员工化、公文自检**五项能力：从找对任务、说清需求到推进商机与检查交付，帮助小团队用好Agent。
 
-[查看任务技能库](https://github.com/Captainf5/Agent-Skill)
+[打开Agent增强合集](https://github.com/Captainf5/Agent-Skill)
 
 **boai-** 用于课程设计；**bobo-** 面向个人通用工具；**bopai-** 用于博派公司内部。第三方学习参考收在页面下方。
 
@@ -94,7 +94,7 @@
 | **博AI增效课程 Skill 套件** | 理念、课前调研、课纲、案例、教学数据、PPT和讲课录音复盘，七项独立Skill组成课程设计闭环 | **[打开课程合集](https://github.com/Captainf5/boai-course)** |
 | **BOBO数据分析 Skill** | 直接分析运营营销数据，或带学员学习Excel方法；交付可追溯的计算、结论和行动 | [打开独立数据分析](https://github.com/Captainf5/bobo-data-analysis) |
 | **Excel公式练习台** | 为课程学员提供常见Excel公式的交互练习 | [查看教学工具](https://github.com/Captainf5/Excel-) |
-| **Agent技能库** | 我维护的其他任务型Skill，与课程设计合集分开 | [查看Agent-Skill](https://github.com/Captainf5/Agent-Skill) |
+| **Agent增强Skill合集** | 提示词、场景挖掘、销售参谋、员工化与公文自检，面向OPC与小团队 | [查看Agent-Skill](https://github.com/Captainf5/Agent-Skill) |
 
 ### 课程设计：直接找你要做的事
 
